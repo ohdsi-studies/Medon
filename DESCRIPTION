@@ -1,5 +1,5 @@
-Package: VaccineWaningMethodEvaluation
-Title: Evaluation of Methods for Estimating Waning of Vaccine Effectiveness
+Package: Medon
+Title: Methods Evaluation of Durability in a Observational Network (MEDON)
 Version: 0.0.1
 Date: 2021-10-14
 Author: Martijn J. Schuemie [aut, cre]

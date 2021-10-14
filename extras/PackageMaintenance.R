@@ -1,6 +1,6 @@
 # Copyright 2021 Observational Health Data Sciences and Informatics
 #
-# This file is part of VaccineWaningMethodEvaluation
+# This file is part of Medon
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 
 # Format and check code
 styler::style_pkg()
-OhdsiRTools::checkUsagePackage("VaccineWaningMethodEvaluation")
+OhdsiRTools::checkUsagePackage("Medon")
 OhdsiRTools::updateCopyrightYearFolder()
 
 # Insert cohort definitions into package
@@ -25,7 +25,7 @@ ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "inst/settings/Cohor
                                                  insertTableSql = TRUE,
                                                  insertCohortCreationR = TRUE,
                                                  generateStats = FALSE,
-                                                 packageName = "VaccineWaningMethodEvaluation")
+                                                 packageName = "Medon")
 
 # Regenerate protocol
 rmarkdown::render("Documents/Protocol.rmd", output_dir = "docs")

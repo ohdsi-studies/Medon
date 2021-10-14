@@ -1,5 +1,5 @@
-Evaluation of Methods for Estimating Waning of Vaccine Effectiveness
-====================================================================
+Methods Evaluation of Durability in a Observational Network (MEDON)
+===================================================================
 
 <img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
