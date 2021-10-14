@@ -10,7 +10,7 @@ Methods Evaluation of Durability in a Observational Network (MEDON)
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
 - Study start date: **October 14, 2021**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **[HTML document](https://ohdsi-studies.github.io/Medon/Protocol.html)**
 - Publications: **-**
 - Results explorer: **-**
 
