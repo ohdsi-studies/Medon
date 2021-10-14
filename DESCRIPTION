@@ -1,0 +1,35 @@
+Package: VaccineWaningMethodEvaluation
+Title: Evaluation of Methods for Estimating Waning of Vaccine Effectiveness
+Version: 0.0.1
+Date: 2021-10-14
+Author: Martijn J. Schuemie [aut, cre]
+Maintainer: Martijn J. Schuemie <schuemie@ohdsi.org>
+Description: A methods research experiment to evaluate various methods for estimating waning of vaccine effectiveness.
+Depends:
+    DatabaseConnector (>= 4.0.0),
+    survival
+Imports:
+    Andromeda,
+    Cyclops (>= 3.1.0),
+    CohortDiagnostics (>= 2.0.0),
+    MethodEvaluation (>= 2.1.0),
+    FeatureExtraction,
+    CohortMethod (>= 4.1.0),
+    SelfControlledCaseSeries (>= 3.0.0),
+    EmpiricalCalibration,
+    OhdsiSharing,
+    dplyr,
+    plyr,
+    rlang,
+    methods,
+    purrr,
+    readr,
+    ParallelLogger,
+    SqlRender,
+    RJSONIO,
+    zip
+Suggests:
+    testthat
+License: Apache License 2.0
+LazyData: true
+RoxygenNote: 7.1.1

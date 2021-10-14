@@ -1,19 +1,17 @@
-[Study title]
-=============
+Evaluation of Methods for Estimating Waning of Vaccine Effectiveness
+====================================================================
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **-**
-- Study type: **-**
+- Analytics use case(s): **Population-Level Estimation**
+- Study type: **Methods Research**
 - Tags: **-**
 - Study lead: **-**
 - Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
-- Study start date: **-**
+- Study start date: **October 14, 2021**
 - Study end date: **-**
 - Protocol: **-**
 - Publications: **-**
 - Results explorer: **-**
 
-[Description (single paragraph)]
-
-[You can add other text at this point]
+A methods research experiment to evaluate various methods for estimating waning of vaccine effectiveness.
